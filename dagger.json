@@ -1,0 +1,6 @@
+{
+  "name": "phpqa",
+  "sdk": "github.com/carnage/dagger/sdk/php@add-php-runtime",
+  "source": ".",
+  "engineVersion": "v0.11.6"
+}
